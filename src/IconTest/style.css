@@ -1,0 +1,27 @@
+.music{
+    width:50px;
+    height:40px;
+    background:red
+}
+.pictures{
+    width:50px;
+    height:40px;
+    background:pink
+}
+.vedios{
+    width:50px;
+    height:40px;
+    background:blue
+}
+.contact{
+    width:50px;
+    height:40px;
+    background:green
+}
+.default{
+
+    width:50px;
+    height:40px;
+    background:red
+
+}
