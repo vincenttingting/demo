@@ -46,6 +46,7 @@ class IconSpan extends Component{
             onClick,
             // children=null
         } = this.props
+        
         const icon = this.props.icon ? "<img src='" + this.props.icon + "' />" : ""; 
         const  text = this.props.text ? this.props.text : ""; 
         return(
